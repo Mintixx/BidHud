@@ -39,6 +39,10 @@ You don't need to own an item to list it. Select anything from the game's item r
 
 Open the configuration menu using `Right Shift`.
 
+
+<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/fbaa2d45-3c6b-474a-819c-04c725d790f8" />
+
+
 | Category | Customization |
 |---|---|
 | Auction | Item, quantity, duration, starting bid, minimum raise, anti-snipe |

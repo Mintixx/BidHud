@@ -40,7 +40,12 @@ You don't need to own an item to list it. Select anything from the game's item r
 Open the configuration menu using `Right Shift`.
 
 
+
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/fbaa2d45-3c6b-474a-819c-04c725d790f8" />
+
+<img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/a235bb01-3094-424a-88cb-8e0277b6b6c9" />
+
+
 
 
 | Category | Customization |

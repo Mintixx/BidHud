@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "bidhud",
+  "version": "${version}",
+  "name": "Bid HUD",
+  "description": "Live auction bar for DonutSMP streams. Rebind the menu key in Minecraft Controls.",
+  "icon": "assets/bidhud/icon.png",
+  "authors": ["Mintixx_"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.bidhud.BidMod"],
+    "modmenu": ["com.bidhud.BidModMenu"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "fabric-api": "*"
+  }
+}

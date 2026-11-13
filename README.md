@@ -8,6 +8,7 @@ Bid HUD automatically detects incoming `/pay` messages, tracks the highest bidde
 
 **You choose the item. Your players place the bids. You handle the trade.**
 
+![Minecraft](https://img.shields.io/badge/Minecraft-26.3-brightgreen?style=for-the-badge&logo=minecraft)
 ![Minecraft](https://img.shields.io/badge/Minecraft-26.2-brightgreen?style=for-the-badge&logo=minecraft)
 ![Fabric](https://img.shields.io/badge/Mod%20Loader-Fabric-orange?style=for-the-badge)
 ![Client Side](https://img.shields.io/badge/Client--Side-Only-blue?style=for-the-badge)
